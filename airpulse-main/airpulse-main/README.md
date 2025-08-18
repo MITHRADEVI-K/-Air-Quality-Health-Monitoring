@@ -1,4 +1,4 @@
-# Real-time Air Quality & Health Monitoring with EdgeFrame & Forgetful Forest
+ # Real-time Air Quality & Health Monitoring with EdgeFrame & Forgetful Forest
 
 ## Objective
 The objective of this application is to evaluate the performance of a hybrid machine learning model combining **EdgeFrame (EF)** and **Forgetful Forest (FF)** for real-time health and air quality monitoring.  
@@ -33,7 +33,7 @@ These datasets include attributes such as **PM2.5, PM10, CO2, O3, NO2, SO2, Temp
 ## System Architecture
 The architecture integrates **data ingestion, preprocessing, hybrid ML model execution, monitoring, and visualization** in a modular way.  
 
-![System Architecture](architecture.png)
+![System Architecture](architectureDiag.png)
 
 ---
 
